@@ -1,0 +1,20 @@
+{
+    "Zhongli": {
+        "id": 5010,
+        "name": "Zhongli",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/rmX6HCYD/103234529-p1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/zBCmYb90/104162318-p1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/PfMG6Dbq/105057183-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/CLM39KJs/109386191-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/15WkSZjh/118866344-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/qvz9MZPt/Rex-Lapis-full-3125635-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/6QZgC45t/Zhongli-full-3966815-2x-min.jpg" }
+        ]
+    }
+}

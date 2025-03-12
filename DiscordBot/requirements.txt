@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+sqlalchemy
+alembic
+aiosqlite
+psycopg2-binary
+supabase-py

@@ -1,0 +1,17 @@
+{
+    "Nahida": {
+        "id": 5008,
+        "name": "Nahida",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/8cXt2TPZ/115879584-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/1X3v78Pg/123740513-p0-1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/9MpxBd35/127131170-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/CLdvjnmX/c509ef3c24e903980285a27f4cf3f981-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/sD8TKfLX/wfhpohzcsk5c1-2x-min.jpg" }
+        ]
+    }
+}

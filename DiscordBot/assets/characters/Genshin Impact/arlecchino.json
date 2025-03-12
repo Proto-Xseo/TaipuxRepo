@@ -1,0 +1,21 @@
+{
+    "Arlecchino": {
+        "id": 5001,
+        "name": "Arlecchino",
+        "series": "Original",
+        "primary_image": {
+            "url": "https://i.postimg.cc/50638Zmv/108134147-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/1zRM3gnv/112296648-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/kgmfLYn3/115093981-p0-master1200-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/cLBXW7HK/117049822-p1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/ZR2LHVfQ/118098877-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/vmPhgQ5b/119667636-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/C58sQkXx/120526194-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/5Nc3FKQY/122995515-p1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/PfvyJnJn/124813004-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/RVcT11wP/Arlecchino-full-4163333-2x-min.jpg" }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Raiden Shogun": {
+        "id": 5009,
+        "name": "Raiden Shogun",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/brDvRv78/101195518-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/MZNHpyBG/115232866-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/GtWmgCRD/116090923-p0-master1200-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/d1S1dCS4/121464238-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/jdf5wL64/123829500-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/Gm1pkdqw/126056904-p0-2x-min.jpg" }
+        ]
+    }
+}

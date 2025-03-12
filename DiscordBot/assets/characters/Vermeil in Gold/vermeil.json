@@ -1,0 +1,26 @@
+{
+  "id": 4001,
+  "name": "Vermeil",
+  "series": "Vermeil in Gold",
+  "primary_image": {
+    "url": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg"
+  },
+  "extra_images": [
+    {
+      "url": "https://i.postimg.cc/2jgKQhkw/dd117c6a778782b23a41d912f2c050ac.jpg",
+      "affection_required": 0
+    },
+    {
+      "url": "https://i.postimg.cc/4yVW32hS/vermeil-kinsou-no-vermeil-drawn-by-piukute062-sample-a2b09bed05999800e9be1f15adf3de61.jpg",
+      "affection_required": 0
+    },
+    {
+      "url": "https://i.postimg.cc/pdW46vnX/vermeil-kinsou-no-vermeil-drawn-by-yunigack-sample-b96442be19e27d0958f0cc6b8c85e6e5.jpg",
+      "affection_required": 0
+    },
+    {
+      "url": "https://i.postimg.cc/Kzd9xh4T/vermeil-kinsou-no-vermeil-drawn-by-ryumikooo-sample-4c8aca4ff3ca437138a9900dfc150aa8.jpg",
+      "affection_required": 0
+    }
+  ]
+}

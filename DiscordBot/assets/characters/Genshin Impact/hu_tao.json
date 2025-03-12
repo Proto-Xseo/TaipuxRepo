@@ -1,0 +1,20 @@
+{
+    "Hu Tao": {
+        "id": 5005,
+        "name": "Hu Tao",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/Wtcs6wm6/105531229-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/CMBD7MHz/105592543-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/tJxXxM64/112303294-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/7PFzWvmX/120540727-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/SNc90ZP4/120651390-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/QdsTjQLT/Hu-Tao-1024-4390279-webp-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/SKxYMmxQ/Hu-Tao-full-3545716-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/s2HQPbMY/Hu-Tao-full-3979398-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/ydJJLnRw/Hu-Tao-full-4397259-2x-min.jpg" }
+        ]
+    }
+}

@@ -1,0 +1,2453 @@
+{
+    "984783866072039435": {
+        "characters": [
+            {
+                "local_id": 1,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N",
+                "favorite": "\ud83e\udd2b"
+            },
+            {
+                "local_id": 2,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "SR",
+                "favorite": "\ud83e\udd21"
+            },
+            {
+                "local_id": 3,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "UR"
+            },
+            {
+                "local_id": 4,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "LR"
+            },
+            {
+                "local_id": 5,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "UR"
+            },
+            {
+                "local_id": 6,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "LR"
+            },
+            {
+                "local_id": 7,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "LR"
+            },
+            {
+                "local_id": 8,
+                "global_id": 1001,
+                "name": "Monkey D. Luffy",
+                "affection": 0,
+                "rarity": "SR"
+            },
+            {
+                "local_id": 9,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R"
+            },
+            {
+                "local_id": 10,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "N"
+            },
+            {
+                "local_id": 11,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "SR"
+            },
+            {
+                "local_id": 12,
+                "global_id": 1001,
+                "name": "Monkey D. Luffy",
+                "affection": 0,
+                "rarity": "SSR"
+            },
+            {
+                "local_id": 13,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "SR"
+            },
+            {
+                "local_id": 14,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "N"
+            },
+            {
+                "local_id": 15,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "UR"
+            },
+            {
+                "local_id": 16,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "SR"
+            },
+            {
+                "local_id": 17,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R"
+            },
+            {
+                "local_id": 18,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "SR",
+                "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 19,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 20,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "LR",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 21,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 22,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 23,
+                "global_id": 4001,
+                "name": "Vermeil",
+                "affection": 0,
+                "rarity": "SR",
+                "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 24,
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 25,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 26,
+                "global_id": 1001,
+                "name": "Monkey D. Luffy",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5010,
+                "name": "Zhongli",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 28,
+                "global_id": "njl8aw4",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5009,
+                "name": "Raiden Shogun",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/brDvRv78/101195518-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5002,
+                "name": "Clorinde",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/qRLKFQMw/112705858-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 31,
+                "global_id": "z8aeeim",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/0N1cRWP1/Venti-1024-4338792-webp-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "local_id": 32,
+                "global_id": "leyadat",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/gJZMS15S/aru-and-aru-blue-archive-drawn-by-potgit-sample-6fd82c71fe06fc1eca22bf35b776babc.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5003,
+                "name": "Furina",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 31,
+                "name": "Hoshino",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/PfF7XzbQ/hoshino-and-haruna-blue-archive-drawn-by-chilong-heronas-sample-e4d2547a0a7b66741d893d1b20724263.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5011,
+                "name": "Yae Miko",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/9fk5YBCR/0af82b105700d79584a2a9defba0362f-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 5003,
+                "name": "Furina",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "global_id": 1001,
+                "name": "Monkey D. Luffy",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "claimed_by": "<@984783866072039435>"
+            }
+        ],
+        "xp": 0,
+        "currency": 1000,
+        "wishlist": [
+            "yae miko",
+            "aru",
+            "keqing",
+            "ganyu",
+            "roronoa zoro",
+            "shiroko",
+            "nahida"
+        ],
+        "gacha_tickets": 0,
+        "boosts": 0,
+        "shards": 0,
+        "cards": [
+            {
+                "order": 2,
+                "global_id": "58l7seh",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "rarity": "UR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 3,
+                "global_id": "iftjhbc",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "SSR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 4,
+                "global_id": "qomlztp",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/ydQmSNRs/113785321-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 6,
+                "global_id": "jnr3iyo",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/4dzwGV5s/hina-blue-archive-drawn-by-whoning1-sample-32ec8d5b8072279c985a9e8375f13ca9.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 7,
+                "global_id": "8jtsq5p",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/XNgScC0R/hina-blue-archive-drawn-by-kuroroui-sample-850c5b09e60853d31e89387af345aa22.jpg",
+                "rarity": "LR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 8,
+                "global_id": "6q96bdu",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mr38f7VR/hina-and-hina-blue-archive-drawn-by-mosaic0614-sample-9635facf875789a27e57642aa9a4eb85.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 10,
+                "global_id": "5zedx3e",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/zXbcVb0Z/hoshino-blue-archive-drawn-by-meluwow-sample-f23f9df75d7c72dc52271b16eb10b89f.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 12,
+                "global_id": "ni52mna",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9MpxBd35/127131170-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 13,
+                "global_id": "v7eaqxe",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/N0XZyy4P/hina-blue-archive-drawn-by-karaage-xxxmido02-sample-5f635cf3a448f49a1a991885a6706440.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 14,
+                "global_id": "hiixj84",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 16,
+                "global_id": "lz4q971",
+                "character_id": 42,
+                "name": "Shiroko",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/wvjN3N5h/shiroko-and-shiroko-terror-blue-archive-drawn-by-tatsumiya-kagari-sample-83466498f1fc9a034d5a5002.jpg",
+                "rarity": "R",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 17,
+                "global_id": "31a8079",
+                "character_id": 5003,
+                "name": "Furina",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 1,
+                "global_id": "5qo15b2",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "N",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 16,
+                "global_id": "abgll9k",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "SSR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 17,
+                "global_id": "ryu8agy",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/595YBnyf/hina-and-hina-blue-archive-drawn-by-sasanoha-sasanoha0712-sample-638091813ebfbaca27d0a4afdc7f28b5.jpg",
+                "rarity": "ER",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 18,
+                "global_id": "qpq3zqt",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/htmqm34r/hina-blue-archive-drawn-by-uirou-uirou2024-sample-f25ae83524945b3fa351188ace8d5475.jpg",
+                "rarity": "LR",
+                "claimed_by": "<@984783866072039435>"
+            }
+        ],
+        "null": {
+            "characters": [
+                {
+                    "local_id": 1,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "N",
+                    "favorite": "\ud83e\udd2b"
+                },
+                {
+                    "local_id": 2,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "SR",
+                    "favorite": "\ud83e\udd21"
+                },
+                {
+                    "local_id": 3,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "UR"
+                },
+                {
+                    "local_id": 4,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "LR"
+                },
+                {
+                    "local_id": 5,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "UR"
+                },
+                {
+                    "local_id": 6,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "LR"
+                },
+                {
+                    "local_id": 7,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "LR"
+                },
+                {
+                    "local_id": 8,
+                    "global_id": 1001,
+                    "name": "Monkey D. Luffy",
+                    "affection": 0,
+                    "rarity": "SR"
+                },
+                {
+                    "local_id": 9,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "R"
+                },
+                {
+                    "local_id": 10,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "N"
+                },
+                {
+                    "local_id": 11,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "SR"
+                },
+                {
+                    "local_id": 12,
+                    "global_id": 1001,
+                    "name": "Monkey D. Luffy",
+                    "affection": 0,
+                    "rarity": "SSR"
+                },
+                {
+                    "local_id": 13,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "SR"
+                },
+                {
+                    "local_id": 14,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "N"
+                },
+                {
+                    "local_id": 15,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "UR"
+                },
+                {
+                    "local_id": 16,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "SR"
+                },
+                {
+                    "local_id": 17,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "R"
+                },
+                {
+                    "local_id": 18,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "SR",
+                    "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 19,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 20,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "LR",
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 21,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 22,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 23,
+                    "global_id": 4001,
+                    "name": "Vermeil",
+                    "affection": 0,
+                    "rarity": "SR",
+                    "claimed_artwork": "https://i.postimg.cc/XNrPBQbq/4ffb30148343e8012cfc90b9c11e39c8.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 24,
+                    "global_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 25,
+                    "global_id": 3001,
+                    "name": "Kozuki UI",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 26,
+                    "global_id": 1001,
+                    "name": "Monkey D. Luffy",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5010,
+                    "name": "Zhongli",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 28,
+                    "global_id": "njl8aw4",
+                    "character_id": 5010,
+                    "name": "Zhongli",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5009,
+                    "name": "Raiden Shogun",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/brDvRv78/101195518-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5002,
+                    "name": "Clorinde",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/qRLKFQMw/112705858-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 31,
+                    "global_id": "z8aeeim",
+                    "character_id": 5012,
+                    "name": "Venti",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/0N1cRWP1/Venti-1024-4338792-webp-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "local_id": 32,
+                    "global_id": "leyadat",
+                    "character_id": 1,
+                    "name": "Aru",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/gJZMS15S/aru-and-aru-blue-archive-drawn-by-potgit-sample-6fd82c71fe06fc1eca22bf35b776babc.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5003,
+                    "name": "Furina",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 31,
+                    "name": "Hoshino",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://i.postimg.cc/PfF7XzbQ/hoshino-and-haruna-blue-archive-drawn-by-chilong-heronas-sample-e4d2547a0a7b66741d893d1b20724263.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5011,
+                    "name": "Yae Miko",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://i.postimg.cc/9fk5YBCR/0af82b105700d79584a2a9defba0362f-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 5003,
+                    "name": "Furina",
+                    "affection": 0,
+                    "rarity": "N",
+                    "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "global_id": 1001,
+                    "name": "Monkey D. Luffy",
+                    "affection": 0,
+                    "rarity": "R",
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                    "claimed_by": "<@984783866072039435>"
+                }
+            ],
+            "xp": 0,
+            "currency": 1000,
+            "wishlist": [
+                "raiden shogun",
+                "yae miko"
+            ],
+            "gacha_tickets": 0,
+            "boosts": 0,
+            "shards": 0,
+            "cards": [
+                {
+                    "order": 1,
+                    "global_id": "ljhvlwp",
+                    "character_id": 42,
+                    "name": "Shiroko",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/9MwWxFC6/shiroko-and-shiroko-blue-archive-drawn-by-nyun-sample-4dad2d0b5d4e8dfc96632c34d0453590.jpg",
+                    "rarity": "SR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 2,
+                    "global_id": "58l7seh",
+                    "character_id": 1001,
+                    "name": "Monkey D. Luffy",
+                    "series": "One Piece",
+                    "affection": 0,
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                    "rarity": "UR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 3,
+                    "global_id": "iftjhbc",
+                    "character_id": 1002,
+                    "name": "Roronoa Zoro",
+                    "series": "One Piece",
+                    "affection": 0,
+                    "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                    "rarity": "SSR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 4,
+                    "global_id": "qomlztp",
+                    "character_id": 5006,
+                    "name": "Kamisato Ayaka",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/ydQmSNRs/113785321-p0-2x-min.jpg",
+                    "rarity": "SR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 5,
+                    "global_id": "99xytpy",
+                    "character_id": 5009,
+                    "name": "Raiden Shogun",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/d1S1dCS4/121464238-p0-2x-min.jpg",
+                    "rarity": "R",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 6,
+                    "global_id": "jnr3iyo",
+                    "character_id": 2,
+                    "name": "Hina",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/4dzwGV5s/hina-blue-archive-drawn-by-whoning1-sample-32ec8d5b8072279c985a9e8375f13ca9.jpg",
+                    "rarity": "SR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 7,
+                    "global_id": "8jtsq5p",
+                    "character_id": 2,
+                    "name": "Hina",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/XNgScC0R/hina-blue-archive-drawn-by-kuroroui-sample-850c5b09e60853d31e89387af345aa22.jpg",
+                    "rarity": "LR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 8,
+                    "global_id": "6q96bdu",
+                    "character_id": 2,
+                    "name": "Hina",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/mr38f7VR/hina-and-hina-blue-archive-drawn-by-mosaic0614-sample-9635facf875789a27e57642aa9a4eb85.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 9,
+                    "global_id": "jrw2hea",
+                    "character_id": 1,
+                    "name": "Aru",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/Nf90NDfy/aru-blue-archive-drawn-by-potgit-sample-c76c972a993e2cbfd4ed68e4759b9122.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 10,
+                    "global_id": "5zedx3e",
+                    "character_id": 31,
+                    "name": "Hoshino",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/zXbcVb0Z/hoshino-blue-archive-drawn-by-meluwow-sample-f23f9df75d7c72dc52271b16eb10b89f.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 11,
+                    "global_id": "t82smhl",
+                    "character_id": 2,
+                    "name": "Hina",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/RFV1kyNQ/hina-and-hina-blue-archive-drawn-by-maru-ccy-sample-e1295c48886c1c9fba68c1fa0d12d524.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 12,
+                    "global_id": "ni52mna",
+                    "character_id": 5008,
+                    "name": "Nahida",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/9MpxBd35/127131170-p0-2x-min.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 13,
+                    "global_id": "v7eaqxe",
+                    "character_id": 2,
+                    "name": "Hina",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/N0XZyy4P/hina-blue-archive-drawn-by-karaage-xxxmido02-sample-5f635cf3a448f49a1a991885a6706440.jpg",
+                    "rarity": "N",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 14,
+                    "global_id": "hiixj84",
+                    "character_id": 5010,
+                    "name": "Zhongli",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg",
+                    "rarity": "UR",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 15,
+                    "global_id": "69invsj",
+                    "character_id": 5008,
+                    "name": "Nahida",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg",
+                    "rarity": "R",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 16,
+                    "global_id": "lz4q971",
+                    "character_id": 42,
+                    "name": "Shiroko",
+                    "series": "Blue Archive",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/wvjN3N5h/shiroko-and-shiroko-terror-blue-archive-drawn-by-tatsumiya-kagari-sample-83466498f1fc9a034d5a5002.jpg",
+                    "rarity": "R",
+                    "claimed_by": "<@984783866072039435>"
+                },
+                {
+                    "order": 17,
+                    "global_id": "31a8079",
+                    "character_id": 5003,
+                    "name": "Furina",
+                    "series": "Genshin Impact",
+                    "affection": 0,
+                    "claimed_artwork": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg",
+                    "rarity": "R",
+                    "claimed_by": "<@984783866072039435>"
+                }
+            ],
+            "gold": 0
+        },
+        "gold": 0,
+        "favourite_card": {
+            "order": 8,
+            "global_id": "6q96bdu",
+            "character_id": 2,
+            "name": "Hina",
+            "series": "Blue Archive",
+            "affection": 0,
+            "claimed_artwork": "https://i.postimg.cc/mr38f7VR/hina-and-hina-blue-archive-drawn-by-mosaic0614-sample-9635facf875789a27e57642aa9a4eb85.jpg",
+            "rarity": "N",
+            "claimed_by": "<@984783866072039435>"
+        }
+    },
+    "1280667833281544267": {
+        "characters": [
+            {
+                "local_id": 1,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N"
+            },
+            {
+                "local_id": 2,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R"
+            },
+            {
+                "local_id": 3,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            },
+            {
+                "local_id": 4,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            },
+            {
+                "local_id": 5,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            },
+            {
+                "local_id": 6,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            },
+            {
+                "local_id": 7,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            },
+            {
+                "local_id": 8,
+                "global_id": "ikymgi7",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/vBBnpfgd/124041846-p0-2x-min.jpg",
+                "claimed_by": "<@1280667833281544267>"
+            }
+        ],
+        "xp": 0,
+        "currency": 1000,
+        "wishlist": [],
+        "gacha_tickets": 0,
+        "boosts": 0,
+        "shards": 0
+    },
+    "896258618729574401": {
+        "characters": [
+            {
+                "local_id": 1,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "local_id": 2,
+                "global_id": 1001,
+                "name": "Monkey D. Luffy",
+                "affection": 0,
+                "rarity": "SSR",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "local_id": 3,
+                "global_id": 3001,
+                "name": "Kozuki UI",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "local_id": 4,
+                "global_id": "gp9swzl",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/L6sWNb6y/Keqing-full-3939590-2x-min.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 5009,
+                "name": "Raiden Shogun",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/brDvRv78/101195518-p0-2x-min.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 1002,
+                "name": "Roronoa Zoro",
+                "affection": 0,
+                "rarity": "N",
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "local_id": 9,
+                "global_id": "dxb2mnv",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/gJZMS15S/aru-and-aru-blue-archive-drawn-by-potgit-sample-6fd82c71fe06fc1eca22bf35b776babc.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "local_id": 10,
+                "global_id": "kgsh8dg",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1XBLfxRF/100973424-p0-2x-min.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 31,
+                "name": "Hoshino",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/PfF7XzbQ/hoshino-and-haruna-blue-archive-drawn-by-chilong-heronas-sample-e4d2547a0a7b66741d893d1b20724263.jpg",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "global_id": 2,
+                "name": "Hina",
+                "affection": 0,
+                "rarity": "R",
+                "claimed_artwork": "https://i.postimg.cc/4dzwGV5s/hina-blue-archive-drawn-by-whoning1-sample-32ec8d5b8072279c985a9e8375f13ca9.jpg",
+                "claimed_by": "<@896258618729574401>"
+            }
+        ],
+        "xp": 0,
+        "currency": 1000,
+        "wishlist": [
+            "raiden shogun",
+            "kamisato ayaka",
+            "yae miko",
+            "keqing",
+            "arlecchino"
+        ],
+        "gacha_tickets": 0,
+        "boosts": 0,
+        "shards": 0,
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "ytjktmd",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/gJZMS15S/aru-and-aru-blue-archive-drawn-by-potgit-sample-6fd82c71fe06fc1eca22bf35b776babc.jpg",
+                "rarity": "LR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 2,
+                "global_id": "2etrjuw",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9fk5YBCR/0af82b105700d79584a2a9defba0362f-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 3,
+                "global_id": "r5g908r",
+                "character_id": 5001,
+                "name": "Arlecchino",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/RVcT11wP/Arlecchino-full-4163333-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 4,
+                "global_id": "cvpm7sp",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 5,
+                "global_id": "4xt8vf5",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/PfMG6Dbq/105057183-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 6,
+                "global_id": "z4qvo80",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/HLTX9fTn/124784793-p0-2x-min.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 7,
+                "global_id": "265ja7r",
+                "character_id": 5005,
+                "name": "Hu Tao",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/7PFzWvmX/120540727-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 8,
+                "global_id": "f05segz",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/8cXt2TPZ/115879584-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 9,
+                "global_id": "mx4g4wv",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "N",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 10,
+                "global_id": "yiacpg1",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 11,
+                "global_id": "7p8pikd",
+                "character_id": 5009,
+                "name": "Raiden Shogun",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/jdf5wL64/123829500-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 12,
+                "global_id": "gy6heue",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/CLdvjnmX/c509ef3c24e903980285a27f4cf3f981-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 13,
+                "global_id": "5avna37",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "N",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 14,
+                "global_id": "chc8gt8",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/pXQvM8Y4/beb493f83150511a039a04847ff68099047a7c72-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 15,
+                "global_id": "ecqc5zh",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 16,
+                "global_id": "2ptzvna",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/ydQmSNRs/113785321-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 17,
+                "global_id": "bkozc6y",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/L5rmKd6J/aru-blue-archive-drawn-by-dabrew-sample-18bf349104cdf4cdc2026851cdabe8be.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 18,
+                "global_id": "dkr9aaj",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/zXbcVb0Z/hoshino-blue-archive-drawn-by-meluwow-sample-f23f9df75d7c72dc52271b16eb10b89f.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 19,
+                "global_id": "owt2r0a",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/vTxVmytq/126761672-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 20,
+                "global_id": "1u4kbpk",
+                "character_id": 5009,
+                "name": "Raiden Shogun",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/d1S1dCS4/121464238-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@896258618729574401>"
+            },
+            {
+                "order": 21,
+                "global_id": "s2dsskk",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/VsH6Bp1Q/aru-blue-archive-drawn-by-dainillust-sample-c663344b27453786b1db3dcaf1d32593.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@896258618729574401>"
+            }
+        ]
+    },
+    "727875449148932167": {
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "gp6qwss",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/CLdvjnmX/c509ef3c24e903980285a27f4cf3f981-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 2,
+                "global_id": "og9vywn",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/pXQvM8Y4/beb493f83150511a039a04847ff68099047a7c72-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 3,
+                "global_id": "lot8tgg",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "N",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 4,
+                "global_id": "7adczp0",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Vvj4WMTd/hoshino-blue-archive-drawn-by-nayuk-0501-sample-d8718eff1f087d25e8ebd8307dea9321.jpg",
+                "rarity": "N",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 5,
+                "global_id": "dngnna2",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/0Q8nrzzt/Venti-full-3918393-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 6,
+                "global_id": "phhnzrn",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/76H6myfD/aru-blue-archive-drawn-by-z-shitei-ero-sample-e8af401e48cb2b690e1886e826c78380.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 7,
+                "global_id": "tmuml61",
+                "character_id": 42,
+                "name": "Shiroko",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/25mhRMV9/shiroko-blue-archive-drawn-by-ningen-gokko-13f0dbb4324236208b899af2d428123f.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 8,
+                "global_id": "bbnvtyl",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/FKmWWPmN/hoshino-and-hoshino-blue-archive-drawn-by-tyagama-sample-ebdba2ac8ff70d3194a4f6328c048ade.jpg",
+                "rarity": "N",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 9,
+                "global_id": "9de2k0k",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "SSR",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 10,
+                "global_id": "7c8h96h",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/t4ZMHn6W/Keqing-full-4109947-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 11,
+                "global_id": "pp6z23s",
+                "character_id": 5005,
+                "name": "Hu Tao",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/CMBD7MHz/105592543-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 12,
+                "global_id": "o3dq9l1",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mD8w9TMT/Venti-full-3918386-2x-min.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@727875449148932167>"
+            },
+            {
+                "order": 5,
+                "global_id": "99xytpy",
+                "character_id": 5009,
+                "name": "Raiden Shogun",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/d1S1dCS4/121464238-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@984783866072039435>"
+            }
+        ],
+        "wishlist": [
+            "raiden shogun",
+            "furina"
+        ],
+        "favourite_card": {
+            "order": 6,
+            "global_id": "phhnzrn",
+            "character_id": 1,
+            "name": "Aru",
+            "series": "Blue Archive",
+            "affection": 0,
+            "claimed_artwork": "https://i.postimg.cc/76H6myfD/aru-blue-archive-drawn-by-z-shitei-ero-sample-e8af401e48cb2b690e1886e826c78380.jpg",
+            "rarity": "SR",
+            "claimed_by": "<@727875449148932167>"
+        },
+        "gold": 0,
+        "shards": 0
+    },
+    "1232420734828154921": {
+        "cards": [
+            {
+                "order": 2,
+                "global_id": "dtau3j6",
+                "character_id": 5001,
+                "name": "Arlecchino",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1zRM3gnv/112296648-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 3,
+                "global_id": "ppykue3",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/76WzDh0J/126543737-p0-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 15,
+                "global_id": "69invsj",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 18,
+                "global_id": "lcmsr5d",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/76WzDh0J/126543737-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 18,
+                "global_id": "a48a8ui",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/RC2PLVy0/GQWF3o-Wa0-AE3x-UU-2x-min.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 6,
+                "global_id": "8vsgen2",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 9,
+                "global_id": "jrw2hea",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Nf90NDfy/aru-blue-archive-drawn-by-potgit-sample-c76c972a993e2cbfd4ed68e4759b9122.jpg",
+                "rarity": "N",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 8,
+                "global_id": "0hs5fp7",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/KzFLQCF4/120173000-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 9,
+                "global_id": "mci91ao",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/3wBLPgJp/hoshino-and-hoshino-blue-archive-drawn-by-qaq-baiguang-sample-c7d76180ecd6d1cf759590374c300099.jpg",
+                "rarity": "N",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 10,
+                "global_id": "i4n7jnx",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/ZnrGZt3p/Yae-Miko-full-4335185-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@1232420734828154921>"
+            },
+            {
+                "order": 11,
+                "global_id": "8av40or",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "rarity": "R",
+                "claimed_by": "<@1232420734828154921>"
+            }
+        ],
+        "gold": 0,
+        "shards": 0
+    },
+    "759371688457666571": {
+        "null": {
+            "gold": 0,
+            "shards": 0,
+            "characters": []
+        },
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "mr7pz0n",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9fk5YBCR/0af82b105700d79584a2a9defba0362f-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@759371688457666571>"
+            },
+            {
+                "order": 2,
+                "global_id": "bt4jto9",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Bn0KJdLp/Clorinde-full-4189601-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@759371688457666571>"
+            }
+        ]
+    },
+    "1322161347882123335": {
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "dof56oz",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/qRLKFQMw/112705858-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@1322161347882123335>"
+            }
+        ]
+    },
+    "1185482887915651073": {
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "4qigijq",
+                "character_id": 5009,
+                "name": "Raiden Shogun",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Gm1pkdqw/126056904-p0-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@1185482887915651073>"
+            },
+            {
+                "order": 19,
+                "global_id": "bbjy5s1",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/RC2PLVy0/GQWF3o-Wa0-AE3x-UU-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@984783866072039435>"
+            },
+            {
+                "order": 3,
+                "global_id": "hswfve7",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/rmX6HCYD/103234529-p1-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@1185482887915651073>"
+            },
+            {
+                "order": 4,
+                "global_id": "9ne3r65",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/dVbSQQRX/Keqing-full-4413209-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@1185482887915651073>"
+            },
+            {
+                "order": 5,
+                "global_id": "y8cuv9c",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/7hZzr75k/119323784-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@1185482887915651073>"
+            }
+        ]
+    },
+    "816735778339291186": {
+        "wishlist": [
+            "shiroko"
+        ],
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "vgjpvr5",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 3,
+                "claimed_artwork": "https://i.postimg.cc/sD8TKfLX/wfhpohzcsk5c1-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 2,
+                "global_id": "4h4j1gw",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 3,
+                "global_id": "31kei21",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/LsB5ts4N/aru-and-aru-blue-archive-drawn-by-demonwarlock-sample-7027f7837ea31bdedaed487eba33fa25.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 4,
+                "global_id": "vbv4s8p",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/vBBnpfgd/124041846-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 5,
+                "global_id": "2241y4d",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mgC0kzVp/hina-and-hina-blue-archive-drawn-by-cutlass-classic-chocolate-sample-5ea7788d292f1abd5f5a5c584b32.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 6,
+                "global_id": "w6ubexl",
+                "character_id": 42,
+                "name": "Shiroko",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9MwWxFC6/shiroko-and-shiroko-blue-archive-drawn-by-nyun-sample-4dad2d0b5d4e8dfc96632c34d0453590.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 7,
+                "global_id": "vkso1rf",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/s25HMFw2/Keqing-full-4388613-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 8,
+                "global_id": "hibmrth",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/3wBLPgJp/hoshino-and-hoshino-blue-archive-drawn-by-qaq-baiguang-sample-c7d76180ecd6d1cf759590374c300099.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 9,
+                "global_id": "u2mnqz3",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/dVbSQQRX/Keqing-full-4413209-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 10,
+                "global_id": "5j3fag8",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://preview.redd.it/honestly-wouldnt-gear-5-luffy-be-close-to-impossible-to-v0-695vdh5dliib1.jpg?auto=webp&s=cdf3795d632b7f4ef2f4e831dfc4d311a1d38ea9",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 11,
+                "global_id": "z6ytf00",
+                "character_id": 2,
+                "name": "Hina",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/jq6Kg1yk/hina-blue-archive-drawn-by-9nu-sample-e33122790106fc4c2e8a98695fcd2c53.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 12,
+                "global_id": "xlpjem0",
+                "character_id": 5003,
+                "name": "Furina",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Gt6vPtpn/ed62b9a8fca549f6873b6089a43ff62c-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 13,
+                "global_id": "vzw2okb",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/prWSN0QL/Keqing-full-4045207-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 14,
+                "global_id": "o091jzp",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/sD8TKfLX/wfhpohzcsk5c1-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 15,
+                "global_id": "2a1d1s8",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/Bn0KJdLp/Clorinde-full-4189601-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 16,
+                "global_id": "qujjyns",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/MKcDc2G8/Venti-full-4402371-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 17,
+                "global_id": "nh09m15",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1X4z1cGj/aru-blue-archive-drawn-by-ponya-0000-sample-abc9dbe07dfe4507c37a8282c64c1230.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 18,
+                "global_id": "r3ka0il",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 3,
+                "claimed_artwork": "https://i.postimg.cc/SKGjQRFN/122353763-p1-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 19,
+                "global_id": "6882r8m",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/HLTX9fTn/124784793-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 20,
+                "global_id": "1hzag87",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 21,
+                "global_id": "np5ny2r",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1z0VgM6S/120558539-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 22,
+                "global_id": "ahs2gve",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/G3gKhhdQ/Venti-full-4402369-2x-min.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 23,
+                "global_id": "9apibyi",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/rmX6HCYD/103234529-p1-2x-min.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 24,
+                "global_id": "rnl2hk3",
+                "character_id": 5007,
+                "name": "Keqing",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/s25HMFw2/Keqing-full-4388613-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 25,
+                "global_id": "ohrvmgg",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/C554H9Hk/Venti-full-4335159-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 26,
+                "global_id": "00cmcyp",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/0Q8nrzzt/Venti-full-3918393-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 27,
+                "global_id": "0jqktw2",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 28,
+                "global_id": "upfi5fj",
+                "character_id": 5010,
+                "name": "Zhongli",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/5ybh49J1/104071923-p0-2x-min.jpg",
+                "rarity": "LR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 29,
+                "global_id": "kxtula5",
+                "character_id": 31,
+                "name": "Hoshino",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/K8tpD660/hoshino-blue-archive-drawn-by-shinonome-jugg7238-sample-a6b4ac5cd180ac1cca1225b9c41dc080.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 30,
+                "global_id": "uzp6cu4",
+                "character_id": 5005,
+                "name": "Hu Tao",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/SNc90ZP4/120651390-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 31,
+                "global_id": "257dume",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/ydQmSNRs/113785321-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 32,
+                "global_id": "qu6dh0i",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/yNWp9DTz/aru-blue-archive-drawn-by-melreon-sample-afbd0bfae3ec26f16dc4415190457bec.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 33,
+                "global_id": "zdr7osm",
+                "character_id": 5005,
+                "name": "Hu Tao",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/SKxYMmxQ/Hu-Tao-full-3545716-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 34,
+                "global_id": "aqci4p2",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/ZnrGZt3p/Yae-Miko-full-4335185-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 35,
+                "global_id": "8qjzj9o",
+                "character_id": 1002,
+                "name": "Roronoa Zoro",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvxMQM2K1v4N7js1064C1EKURBwqw_zYiw&s",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 36,
+                "global_id": "3mdu9al",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mZmXzyN7/123626429-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 37,
+                "global_id": "i3xr90z",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/SKGjQRFN/122353763-p1-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 38,
+                "global_id": "eb3zjp4",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/sgY5SVdb/115253173-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 39,
+                "global_id": "z1gjmko",
+                "character_id": 1001,
+                "name": "Monkey D. Luffy",
+                "series": "One Piece",
+                "affection": 0,
+                "claimed_artwork": "https://preview.redd.it/honestly-wouldnt-gear-5-luffy-be-close-to-impossible-to-v0-695vdh5dliib1.jpg?auto=webp&s=cdf3795d632b7f4ef2f4e831dfc4d311a1d38ea9",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 40,
+                "global_id": "vteb5y0",
+                "character_id": 5011,
+                "name": "Yae Miko",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/pXQvM8Y4/beb493f83150511a039a04847ff68099047a7c72-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 41,
+                "global_id": "wobsy8f",
+                "character_id": 5003,
+                "name": "Furina",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/3wZCM3t2/furina-genshin-impact-drawn-by-daokouniao-d9c483e62f22e474a3bbdaa0d8c3624a-2x-min.jpg",
+                "rarity": "UR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 42,
+                "global_id": "14f244m",
+                "character_id": 5012,
+                "name": "Venti",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/mD8w9TMT/Venti-full-3918386-2x-min.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 43,
+                "global_id": "f5hcsgq",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/0jvCtj7j/aru-blue-archive-drawn-by-jjirit-96-sample-b0185f1fb06443f0f8f11a061b785a47.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 44,
+                "global_id": "y8iij9t",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/NLhr9nNg/126982826-p0-2x-min-1.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 45,
+                "global_id": "l3vbmha",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/NLhr9nNg/126982826-p0-2x-min-1.jpg",
+                "rarity": "SSR",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 46,
+                "global_id": "yzyya0n",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9MpxBd35/127131170-p0-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 47,
+                "global_id": "ylmnck5",
+                "character_id": 5004,
+                "name": "Ganyu",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/vTxVmytq/126761672-p0-2x-min.jpg",
+                "rarity": "ER",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 48,
+                "global_id": "bexakv9",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/SNMyLKDC/aru-blue-archive-drawn-by-okkimon-sample-e1792f6f3e050092e0c75a12b5318043.jpg",
+                "rarity": "R",
+                "claimed_by": "<@816735778339291186>"
+            },
+            {
+                "order": 1,
+                "global_id": "ljhvlwp",
+                "character_id": 42,
+                "name": "Shiroko",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/9MwWxFC6/shiroko-and-shiroko-blue-archive-drawn-by-nyun-sample-4dad2d0b5d4e8dfc96632c34d0453590.jpg",
+                "rarity": "SR",
+                "claimed_by": "<@984783866072039435>"
+            }
+        ],
+        "favourite_card": {
+            "order": 13,
+            "global_id": "vzw2okb",
+            "character_id": 5007,
+            "name": "Keqing",
+            "series": "Genshin Impact",
+            "affection": 0,
+            "claimed_artwork": "https://i.postimg.cc/prWSN0QL/Keqing-full-4045207-2x-min.jpg",
+            "rarity": "R",
+            "claimed_by": "<@816735778339291186>"
+        },
+        "profile_color": "#00FFFF",
+        "gold": 0,
+        "shards": 0
+    },
+    "866557440697696316": {
+        "cards": [
+            {
+                "order": 1,
+                "global_id": "is80fs4",
+                "character_id": 1,
+                "name": "Aru",
+                "series": "Blue Archive",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/0jvCtj7j/aru-blue-archive-drawn-by-jjirit-96-sample-b0185f1fb06443f0f8f11a061b785a47.jpg",
+                "rarity": "R",
+                "claimed_by": "<@866557440697696316>"
+            },
+            {
+                "order": 2,
+                "global_id": "y753dzv",
+                "character_id": 5001,
+                "name": "Arlecchino",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/C58sQkXx/120526194-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@866557440697696316>"
+            },
+            {
+                "order": 3,
+                "global_id": "wgplor5",
+                "character_id": 5002,
+                "name": "Clorinde",
+                "series": "Original",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/SKGjQRFN/122353763-p1-2x-min.jpg",
+                "rarity": "N",
+                "claimed_by": "<@866557440697696316>"
+            },
+            {
+                "order": 4,
+                "global_id": "v93ylfk",
+                "character_id": 5008,
+                "name": "Nahida",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/1X3v78Pg/123740513-p0-1-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@866557440697696316>"
+            },
+            {
+                "order": 5,
+                "global_id": "6mgazre",
+                "character_id": 5006,
+                "name": "Kamisato Ayaka",
+                "series": "Genshin Impact",
+                "affection": 0,
+                "claimed_artwork": "https://i.postimg.cc/sgY5SVdb/115253173-p0-2x-min.jpg",
+                "rarity": "R",
+                "claimed_by": "<@866557440697696316>"
+            }
+        ]
+    }
+}

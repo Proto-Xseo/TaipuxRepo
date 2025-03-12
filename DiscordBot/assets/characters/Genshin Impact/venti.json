@@ -1,0 +1,18 @@
+{
+    "Venti": {
+        "id": 5012,
+        "name": "Venti",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/0N1cRWP1/Venti-1024-4338792-webp-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/mD8w9TMT/Venti-full-3918386-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/0Q8nrzzt/Venti-full-3918393-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/C554H9Hk/Venti-full-4335159-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/Wzyw9SXK/Venti-full-4360044-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/G3gKhhdQ/Venti-full-4402369-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/MKcDc2G8/Venti-full-4402371-2x-min.jpg" }
+        ]
+    }
+}

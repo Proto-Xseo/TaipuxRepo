@@ -1,0 +1,20 @@
+{
+    "Clorinde": {
+        "id": 5002,
+        "name": "Clorinde",
+        "series": "Original",
+        "primary_image": {
+            "url": "https://i.postimg.cc/qRLKFQMw/112705858-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/7hZzr75k/119323784-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/L6stcdP1/119537938-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/KzFLQCF4/120173000-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/1z0VgM6S/120558539-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/SKGjQRFN/122353763-p1-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/NfrM9pqn/123157009-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/x8N0mT7m/Clorinde-full-4186066-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/Bn0KJdLp/Clorinde-full-4189601-2x-min.jpg" }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "Monkey D. Luffy": {
+        "id": 1001,
+        "name": "Monkey D. Luffy",
+        "series": "One Piece",
+        "primary_image": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDSv_FRjlh_D93mw75ApzR2BHQV2GQAA5FA&s"
+        },
+        "extra_images": [
+            {
+                "url": "https://preview.redd.it/honestly-wouldnt-gear-5-luffy-be-close-to-impossible-to-v0-695vdh5dliib1.jpg?auto=webp&s=cdf3795d632b7f4ef2f4e831dfc4d311a1d38ea9"
+            }
+        ]
+    }
+}

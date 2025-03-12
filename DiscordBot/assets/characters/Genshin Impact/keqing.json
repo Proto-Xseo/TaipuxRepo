@@ -1,0 +1,19 @@
+{
+    "Keqing": {
+        "id": 5007,
+        "name": "Keqing",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/L6sWNb6y/Keqing-full-3939590-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/66cSVXw2/Keqing-full-3999869-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/prWSN0QL/Keqing-full-4045207-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/6qMmBdzL/Keqing-full-4062578-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/t4ZMHn6W/Keqing-full-4109947-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/KvsHVD1m/Keqing-full-4241537-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/s25HMFw2/Keqing-full-4388613-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/dVbSQQRX/Keqing-full-4413209-2x-min.jpg" }
+        ]
+    }
+}

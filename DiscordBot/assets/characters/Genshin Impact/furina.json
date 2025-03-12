@@ -1,0 +1,18 @@
+{
+    "Furina": {
+        "id": 5003,
+        "name": "Furina",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/BQdCHY8P/120392225-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/pLzJZf8G/125322740-p2-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/50N5bDrT/126888324-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/Gt6vPtpn/ed62b9a8fca549f6873b6089a43ff62c-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/XJHfJQSJ/Furina-de-Fontaine-full-4403305-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/nrXvQBp1/Furina-de-Fontaine-full-4415121-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/3wZCM3t2/furina-genshin-impact-drawn-by-daokouniao-d9c483e62f22e474a3bbdaa0d8c3624a-2x-min.jpg" }
+        ]
+    }
+}

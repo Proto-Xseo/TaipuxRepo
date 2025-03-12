@@ -1,0 +1,18 @@
+{
+  "Kozuki UI": {
+    "id": 3001,
+    "name": "Kozeki UI",
+    "series": "Blue Archive",
+    "primary_image": {
+      "url": "https://i.postimg.cc/SsQLx2VC/kazusa-ui-and-kazusa-blue-archive-drawn-by-shj1998z-sample-1880adf381f62cff31a3afe0b194c059.jpg"
+    },
+    "extra_images": [
+      {"url": "https://i.postimg.cc/KzYL2Xv5/ui-and-ui-blue-archive-drawn-by-takizawa-tarou-sample-e3f9bac535a080731e0163a45509ebfd.jpg"},
+      {"url": "https://i.postimg.cc/hj3m4CXR/ui-blue-archive-drawn-by-chloette-sample-35800ebaa3d57e19571f533ede692cea.jpg"},
+      {"url": "https://i.postimg.cc/SR2MnW92/ui-blue-archive-drawn-by-chloette-sample-d3984fa8a2d9607108fa38a1a9699907.jpg"},
+      {"url": "https://i.postimg.cc/vZs4y1Qz/ui-blue-archive-drawn-by-yoru-uyo-sample-16f56b24ee05a4d3cec3b268158e3b38.jpg"},
+      {"url": "https://i.postimg.cc/j2nbwhh7/ui-blue-archive-drawn-by-drive-shot-sample-1d36d185a6de706e02b43c5eb1b63306.jpg"},
+      {"url": "https://i.postimg.cc/76f690Vx/ui-blue-archive-drawn-by-potgit-sample-45e25fabcc3796240fb5ff88a326cb87.jpg"}
+    ]
+  }
+}

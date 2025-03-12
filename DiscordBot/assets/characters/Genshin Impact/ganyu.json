@@ -1,0 +1,17 @@
+{
+    "Ganyu": {
+        "id": 5004,
+        "name": "Ganyu",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/vBBnpfgd/124041846-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/76WzDh0J/126543737-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/vTxVmytq/126761672-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/NLhr9nNg/126982826-p0-2x-min-1.jpg" },
+            { "url": "https://i.postimg.cc/Kc1qTg9V/Ganyu-full-4326531-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/RC2PLVy0/GQWF3o-Wa0-AE3x-UU-2x-min.jpg" }
+        ]
+    }
+}

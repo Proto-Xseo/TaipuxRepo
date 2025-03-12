@@ -1,0 +1,16 @@
+{
+    "Kamisato Ayaka": {
+        "id": 5006,
+        "name": "Kamisato Ayaka",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/ydQmSNRs/113785321-p0-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/HLTX9fTn/124784793-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/jS0zLD9z/125391254-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/sgY5SVdb/115253173-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/R0GfsX0R/GAvo5vwa-IAA8-Rs-J-2x-min.jpg" }
+        ]
+    }
+}

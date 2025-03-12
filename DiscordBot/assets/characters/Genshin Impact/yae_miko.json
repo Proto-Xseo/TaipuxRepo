@@ -1,0 +1,18 @@
+{
+    "Yae Miko": {
+        "id": 5011,
+        "name": "Yae Miko",
+        "series": "Genshin Impact",
+        "primary_image": {
+            "url": "https://i.postimg.cc/9fk5YBCR/0af82b105700d79584a2a9defba0362f-2x-min.jpg"
+        },
+        "extra_images": [
+            { "url": "https://i.postimg.cc/sDCzLKS5/124545641-p0-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/pXQvM8Y4/beb493f83150511a039a04847ff68099047a7c72-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/sgwRvrLJ/c1-Ln7-WVoxcg-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/fL0420RH/Yae-Miko-full-3525624-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/rs6BvFdq/Yae-Miko-full-3531764-2x-min.jpg" },
+            { "url": "https://i.postimg.cc/ZnrGZt3p/Yae-Miko-full-4335185-2x-min.jpg" }
+        ]
+    }
+}
